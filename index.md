@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Joe Pollacco"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Biophysics PhD candidate (BBSRC Interdisciplinary Biosciences DTP at the University of Oxford). Thoughts on Biophysics, Academia and Research Culture, Studying at Oxford, and miscellaneous other things.
